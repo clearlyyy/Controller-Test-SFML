@@ -1,0 +1,127 @@
+﻿  main.cpp
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-checkbox.hpp(19,145): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-checkbox.hpp(19,109): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-checkbox.hpp(19,73): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(35,125): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(35,89): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(35,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(36,142): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(36,106): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(36,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(121,42): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(203,125): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(203,89): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(203,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(204,142): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(204,106): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(204,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(387,125): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(387,89): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(387,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(389,142): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(389,106): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(389,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(392,143): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(392,107): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(392,71): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(395,143): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(395,107): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(395,71): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(589,42): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(598,45): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(607,45): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(727,125): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(727,89): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(727,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(729,142): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(729,106): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(729,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(732,143): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(732,107): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(732,71): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(735,143): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(735,107): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(735,71): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1076,125): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1076,89): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1076,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1078,142): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1078,106): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1078,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1081,143): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1081,107): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1081,71): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1228,42): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1237,45): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1342,125): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1342,89): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1342,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1344,142): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1344,106): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1344,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1347,143): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1347,107): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-slider.hpp(1347,71): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-button.hpp(24,125): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-button.hpp(24,89): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-button.hpp(24,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-button.hpp(43,91): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-button.hpp(43,69): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-button.hpp(43,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-button.hpp(63,91): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-button.hpp(63,69): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-button.hpp(63,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(18,74): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(18,38): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(17,71): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(24,142): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(24,106): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(24,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(26,125): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(26,89): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(26,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(43,98): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(43,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(43,54): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(67,98): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(67,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(67,54): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(76,98): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(76,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(76,54): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(84,100): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(84,78): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(84,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(94,100): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(94,78): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\bruh\source\repos\ControllerTest\ControllerTest\sfml-gui-listbox.hpp(94,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Generating code
+  1 of 180 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ControllerTest.vcxproj -> C:\Users\bruh\source\repos\ControllerTest\x64\Release\ControllerTest.exe
